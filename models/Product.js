@@ -23,7 +23,7 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
     },
-    stock_quantity: {
+    stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
     },
